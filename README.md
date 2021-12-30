@@ -1,2 +1,2 @@
 # journal
-a repo for journals
+a personal project for learning java repo for journals
